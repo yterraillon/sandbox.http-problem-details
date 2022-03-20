@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoApi", "DemoApi\DemoApi.csproj", "{D8764A0D-75EE-45CE-8992-BB8D7E7D1D63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{8110E861-A47D-40C6-8611-85A23A775B46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8764A0D-75EE-45CE-8992-BB8D7E7D1D63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8764A0D-75EE-45CE-8992-BB8D7E7D1D63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8764A0D-75EE-45CE-8992-BB8D7E7D1D63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8764A0D-75EE-45CE-8992-BB8D7E7D1D63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8110E861-A47D-40C6-8611-85A23A775B46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8110E861-A47D-40C6-8611-85A23A775B46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8110E861-A47D-40C6-8611-85A23A775B46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8110E861-A47D-40C6-8611-85A23A775B46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
